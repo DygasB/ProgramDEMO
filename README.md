@@ -5,5 +5,6 @@ You need Microsoft Visual Studio to run the application. <br>
 
 <h4>User manual</h4>
 1. After starting the program, we check if the design file exists.
-<img src="https://github.com/DygasB/ProgramDEMO/issues/1#issue-1398478093"/>
+<img src="https://user-images.githubusercontent.com/109304818/194178378-0b388d4c-fa5d-406a-9844-2eae7001b384.png"/>
+
 
